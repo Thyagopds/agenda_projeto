@@ -1,16 +1,15 @@
-# flutter_webapi_first_course
+# Agenda de Compromissos
 
-Projeto do primeiro curso de WebAPI da Formação Flutter
+Um aplicativo em Flutter para gerenciar compromissos e organizar a rotina.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Adicionar, editar e remover compromissos.
+- Visualizar compromissos futuros.
+- Organizar compromissos por data e horário.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**: Framework de desenvolvimento de aplicativos.
+- **Dart**: Linguagem de programação utilizada pelo Flutter.
+  
